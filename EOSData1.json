@@ -1,0 +1,22 @@
+{
+    "about":"testing power automate test one tenzin",
+    "devices":[
+{
+    "question": "What does End of Support mean for my Windows 7 PC?",
+    "answer": "Support for Windows 7 has been discontinued, Microsoft customer service no longer is able to provide technical assistance, and your PC no longer receives security updates. It's important that you move to a modern operating system such as Windows 11, which can provide the latest security updates to help keep you and your data safer."
+},
+{
+   "question": "How do I get a supported version of Windows?",
+    "answer": "There are a few options for using a supported version of Windows:Recommended: New PC with Windows 11 Windows 11 is the most current version of Windows. If you have an older PC, we recommend you move to Windows 11 by buying a new PC. Hardware and software have improved a lot since Windows 7 was released, and today’s computers are faster, more powerful, and more secure.View Windows 11 PCsInstalling Windows 11 on your current PC You can also see if your current PC meets the minimum system requirements PCs that are running Windows 7 are unlikely to meet these requirements, but if yours does, you can purchase and download a full version of Windows 11 Home or Windows 11 Pro or buy from a retailer. If you do choose this path, note that you will need to reinstall your apps (in some cases a newer version may be required) and take steps to transition files, data, and settings since the installation will overwrite the contents of your existing storage drive. It may be easier for you to first upgrade to Windows 10 (see below) and then upgrade to Windows 11."
+},
+{
+    "question": "Why should I consider a new computer?",
+    "answer": "PCs originally built with Windows 7 are running technology that is over 10 years old. Once you move to a new PC, there will be many aspects of Windows that you will find familiar, but also with important software and hardware innovations and capabilities that were not available a decade ago. Check out some of the innovative new features available with Windows 11 on a new computer Newer PC hardware that is faster, more capable, and more compatible with the latest industry technology.To help you keep your computer secure, you can take advantage of the latest security capabilities:Get built-in security at no extra cost. Your Windows computer comes with built-in security features, including firewall and internet protections to help safeguard against viruses, malware, and ransomware.Use facial recognition or your fingerprint for more secure sign-ins into Windows 11 on a PC compatible with Windows Hello. You can also use a localized PIN or your phone as a key.Organize your image files with the Photos app and they’ll be ready for easy viewing and sharing—even across devices. You can also search for certain themes and people in your photos. You just need to make sure your images are stored on OneDrive and you’re signed in to your Microsoft Account..Need more reasons? See the list of features available with Windows 11."
+},
+{
+    "question": "How is Windows 11 security better than Windows 7?",
+    "answer": "Windows 11 is the most secure Windows ever built, with comprehensive end-to-end security that covers antivirus, firewall, internet protections, and more. This means more security features, dashboard displays, and ongoing updates3 to help safeguard against future threats—all built-in at no extra cost. To receive updates, internet access is required, and service fees may apply."
+}  
+]
+
+}
